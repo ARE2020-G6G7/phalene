@@ -31,7 +31,7 @@ Et pour cela on a pris comme critère d’évaluation l’évaluation du nombre 
 
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
 
-## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
+## Lien vers page de blog : <a href="https://image.noelshack.com/fichiers/2020/14/6/1585954882-carte-mentale-copie.png"> C'est ici ! </a>
 
 ## Bibliographie :
 
