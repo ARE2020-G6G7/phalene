@@ -20,15 +20,10 @@ Au début du XIXe siècle, la forme typique de phalène aux ailes blanches tache
 
 
  
-
-
-Graphe représentant le taux de carbonaria en fonction de la proximité à Liverpool ou à la compagne
+![Capturen](https://user-images.githubusercontent.com/62718218/82135367-4567ab80-9802-11ea-9392-253df092cc65.PNG)
 
 On observe une décroissance exponentielle du taux de Carbonaria lorsque l’on se rapproche de la compagne qui était nettement moins touchée par la pollution. Cette évolution coïncide avec la révolution industrielle anglaise qui a engendré une forte pollution et par la même occasion la disparition des lichens et le noircissement des troncs de bouleaux. Par conséquent, les troncs d’arbre deviennent un environnement adéquat pour les carbonaria en leur permettant de se camoufler et ainsi se protéger des prédateurs aux yeux desquels ils sont nettement moins apparents comme nous pouvons le constater ci-dessous :  
 
-  
-
-Carbonaria et Typica posés sur un lichen tantôt en lumière visible tantôt en éclairage UV
 Nous en déduisons donc que les variations démographiques évoquées plûtot sont dues aux changements de couleur des troncs eux-même causés par les concentrations élevés de dioxyde de soufre et dioxyde de carbone. Ainsi, la pollution, bien qu’indirectement, modifie la séléction par prédation des oiseaux (prédateurs des Phalènes du bouleau) : les Phalènes du bouleau qui échappent le mieux aux prédateurs sont les formes sombres dans un environnement pollué et les formes claires dans un milieu naturel, autrement dit Les Phalènes du Bouleau type carbonaria (noires) ont plus de chances de survie que les typica (blanches) à partir d’un certain seuil de pollution 
 
 
