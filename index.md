@@ -52,4 +52,23 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://image.noelshack.com/fichiers/2020/14/6/1585954882-carte-mentale-copie.png">Framindmap </a> 
 
-Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
+[1] Brasseur Olivier, "Le dioxyde de soufre, des premières mesures à l'établissement du réseau et de la législation actuels", Bruxelles environnement - observation des données de l'environnement, p.1-3, Janvier-2011. Disponible à l'adresse : https://document.environnement.brussels/opac_css/elecfile/Air_Labo_so2.PDF?langtype=2067
+
+[2] William Feeney, "Natural selection in black and white: how industrial pollution changed moths", The Conversation, 15-juillet-2015. Disponible à l'adresse : https://theconversation.com/natural-selection-in-black-and-white-how-industrial-pollution-changed-moths-43061
+
+[3] Cunny Damien, "Les végétaux et les lichens sentinelles de la qualité de l'air", Encyclopédie de l'environnement, 19-septembre-2018. Disponible à l'adresse : https://www.encyclopedie-environnement.org/air/vegetaux-lichens-sentinelles-qualite-de-lair/ .
+
+[4] Arjen E. van’t Hof, Louise A. Reynolds, Carl J. Yung, Laurence M. Cook et Ilik J. Saccheri, "Genetic convergence of industrial melanism in three geometrid moths", Biology Letters, volume 15, août-2019. Disponible à l'adresse :
+https://royalsocietypublishing.org/doi/10.1098/rsbl.2019.0582 .
+
+[5] Intissar El Hajj Mohammed, "Le papillon, la pollution et l'évolution", Le monde, 21-août-2018. Disponible à l'adresse : https://www.lemonde.fr/sciences/article/2018/08/21/le-papillon-la-pollution-et-l-evolution_5344444_1650684.html .
+
+[6] "Phalène du bouleau (La), Biston du bouleau (Le)", Bourgogne nature. Disponible à l'adresse : http://faune.bourgogne-nature.fr/fr/encyclopedie-de-la-nature/phalene-du-bouleau-la-biston-du-bouleau-le-biston-betularia_45_T248853.html .
+
+[7] Bianca Capuano, "Case study: Industrial melanism – polymorphism in the peppered moth", Philpot Education. Disponible à l'adresse :
+https://www.philpoteducation.com/mod/book/view.php?id=831#/ .
+
+[8] Majerus, Brunton et J.Stalker, "A bird's eye view of the peppered moth", J.EVOL.BIOL, volume 13 p.155-159, decembre-1998. Disponible à l'adresse :
+https://onlinelibrary.wiley.com/doi/10.1046/j.1420-9101.2000.00170.x .
+
+
