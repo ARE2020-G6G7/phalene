@@ -19,8 +19,8 @@ La Phalène du bouleau est un papillon nocturne de l'ordre des lépidoptères, d
 Au début du XIXe siècle, la forme typique de phalène aux ailes blanches tachetées de noir était la seule connue jusqu’alors. Par ailleurs, à partir de 1849, on rencontre un pourcentage important des papillons de type Carbonaria (sombre). La fréquence de cette forme augmente à tel point qu’ils représentaient en moyenne 90% des populations de Phalènes en Angleterre voire jusqu’à 98% à proximité des zones industrielles. On peut par exemple citer les données relévées en 1972 à Liverpool qui sont plus ou moins similaires. 
 
 
- 
-![Capturen](https://user-images.githubusercontent.com/62718218/82135367-4567ab80-9802-11ea-9392-253df092cc65.PNG)
+ ![Capturen](https://user-images.githubusercontent.com/62718218/82135400-ac856000-9802-11ea-9b8d-72aa09ce319c.PNG)
+
 
 On observe une décroissance exponentielle du taux de Carbonaria lorsque l’on se rapproche de la compagne qui était nettement moins touchée par la pollution. Cette évolution coïncide avec la révolution industrielle anglaise qui a engendré une forte pollution et par la même occasion la disparition des lichens et le noircissement des troncs de bouleaux. Par conséquent, les troncs d’arbre deviennent un environnement adéquat pour les carbonaria en leur permettant de se camoufler et ainsi se protéger des prédateurs aux yeux desquels ils sont nettement moins apparents comme nous pouvons le constater ci-dessous :  
 
