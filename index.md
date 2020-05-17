@@ -51,6 +51,7 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 ## Bibliographie :
 
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://image.noelshack.com/fichiers/2020/14/6/1585954882-carte-mentale-copie.png">Framindmap </a> 
+
 ![carte mentale copie](https://user-images.githubusercontent.com/62718218/82133117-252af300-97e8-11ea-8dc9-22ab1549f246.png)
 
 
