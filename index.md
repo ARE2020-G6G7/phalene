@@ -3,7 +3,10 @@
 La Phalène du bouleau est un papillon nocturne de l'ordre des lépidoptères, de la famille des géométridés, souvent cité comme exemple d'adaptation à l'évolution de son milieu naturel par mutation puis sélection naturelle. Il présente deux phénotypes dans la nature, une forme sombre et une forme claire. Ces formes sont déterminées génétiquement. Nous pouvons donc nous demander en quoi la Phalène du bouleau met en action le phénomène de sélection naturelle et s’inscrit ainsi dans l’étude d’un système dynamique. 
 
 ## English version
-The peppered moth : Natural selection 
+**The peppered moth : Natural selection**
+The Birch Moth is a moth of the order Lepidoptera, of the family of geometrids, often cited as an example of adaptation to the evolution of its natural environment by mutation then natural selection. It has two phenotypes in nature, a dark form and a light form. These forms are genetically determined. We can therefore ask ourselves how the Birch Moth activates the phenomenon of natural selection and thus fits into the study of a dynamic system.
+
+
 
 ## Présentation de l'équipe
 
