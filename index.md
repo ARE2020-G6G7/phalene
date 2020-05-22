@@ -46,6 +46,8 @@ Dès la fin du dix neuvième siècle on a réalisé l'importance de cette observ
 
 Il lâche le matin des Phalènes du Bouleau claires et sombres, marquées ventralement par une tâche de peinture, soit dans une forêt polluée, soit dans une forêt non polluée. La nuit suivante, ces papillons sont capturés à l'aide d'une lampe ou de phéromones qui les attirent. On ne tient compte que des papillons marqués pour établir le tableau des résultats ci-dessous.
 
+![Capturem](https://user-images.githubusercontent.com/62718218/82654674-63c61080-9c21-11ea-84f4-9f2083b84287.PNG)
+
 
 Les Papillons blancs survivent mieux sur les troncs clairs que sur les troncs noircis par la suie, inversement pour les papillons noirs. Cette mortalité différentielle permet d'expliquer les variations de couleurs observées dans les régions polluées. Mais à quoi est-elle due ?
 
@@ -56,6 +58,28 @@ Les Phalènes sont des animaux nocturnes qui passent la journée posée sur un t
 Des Phalènes du Bouleau claires et sombres sont posées, en nombre égal, de jour, par l'expérimentateur sur des troncs d'arbres pollués ou non selon la région. Des observateurs repèrent ces papillons à la jumelle et constatent qu'ils sont capturés par des oiseaux tels les rouges-gorges. Les résultats sont exprimés ci-dessous 
 
 ![Captureo](https://user-images.githubusercontent.com/62718218/82654513-26fa1980-9c21-11ea-9295-eda10976b4d7.PNG)
+
+Les Oiseaux prélèvent donc de préférence les Papillons qui sont bien visibles. Kettlewell conclut que les variations de couleurs des Papillons sont dues au changement de couleur des troncs qui, en modifiant la sélection par prédation des Oiseaux, a favorisé, on dit sélectionné, les Papillons noirs.
+
+**Critiques**
+
+1.Les expériences n'ont pas été faites le même jour mais étalées sur une durée non négligeable (7 jours) et les Oiseaux ont pu avoir le temps de remarquer l'aubaine d'une région où la nourriture était abondante.
+
+2.Les Papillons sont lâchés le matin à la lumière et se posent sur le premier support qui se présente contrairement aux conditions naturelles.
+
+3.Les Papillons noirs sont récoltés dans une région polluée puis transportés dans une région non polluée ce qui est source de stress et les met en position défavorable dans un environnement qui l'est aussi. Le même phénomène se produit pour les papillons blancs transportés en zone polluée.
+
+4.Les Papillons sont déposés sur les troncs sans vérifier au préalable qu'il s'agit de leur lieu de repos naturel. Cependant dans les conditions naturelles les Oiseaux qui se nourrissent sur le tronc vont aussi le faire sur les branches où le Papillon peut aussi se poser. Ce qui tempère la critique.
+
+5.Pour ses expériences Kettlewell a eu beaucoup de difficulté à se procurer des Papillons en nombre suffisant c'est pourquoi il a du faire appel à des animaux d'élevage. Il n'a pas vérifié qu'ils avaient le même comportement que les sauvages.
+
+6.La vision des Oiseaux n'est pas identique à la notre. Certaines espèces perçoivent le rayonnement UV et le plus grand nombre de récepteurs sur la rétine leur permet de percevoir des détails qui échappent à l’œil humain.
+
+7.Enfin les densités réalisées au cours des expériences sont sans rapport avec les densités réelles. On estime à 400 individus/km2/an la population adulte d'une année et pendant les deux mois de la reproduction cela fait, chaque jour, environ 10 à 20 adultes sur un kilomètre carré (Bishop, 1972). Si l'on compare cela au effectifs des autres papillons on s'aperçoit que la Phalène du bouleau est une espèce rare (0,9 % des 92 000 Papillons capturés en 24 ans dans le sud de l'Angleterre). Les Rouges gorges avec une densité de 65 individus/km2 doivent individuellement en consommer peu chaque jour.
+
+Cependant le fait que les expériences aient été faites avec le même protocole en zone polluée et en zone non polluée atténue l'importance des critiques 1 à 5.
+
+Majerus (2008) a repris les expériences de Kettlewell en tenant compte de ces critiques. Son travail a été réalisé de 2001 à 2007. Dans la région étudiée, la pollution a disparu et la forme carbonaria est maintenant en déclin. Son effectif est passé de 12 % de la population en 2001 à 1% en 2007 ce qui représente un coefficient de sélection moyen de 0,29 à l'encontre de carbonaria. Dans les expériences de prédation (expériences de capture et recapture et observation directe de disparition au bout de 4 heures) il y a davantage de carbonaria consommés que de typica. La différence est équivalente à un coefficient de sélection 0,22, valeur qui n'est pas statistiquement différente de 0.29. Il montre également que le tronc n'est pas le lieu de repos de prédilection, c'est la zone de jonction entre le tronc et les branches. Les Chauves-souris consomment autant de Papillons noirs que de Papillons blancs.
 
 
 ## Lien vers page de blog : <a href=""> C'est ici ! </a>
