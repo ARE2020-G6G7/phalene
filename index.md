@@ -40,12 +40,21 @@ Et pour cela on a pris comme critère d’évaluation l’évaluation du nombre 
 
 ## Présentation structurée des résultats
 
+**Survie**
+
 Dès la fin du dix neuvième siècle on a réalisé l'importance de cette observation. Il s'agissait d'un exemple de sélection naturelle. Il semblait que la pollution en particulier le noircissement des troncs avait modifié la couleur des Phalène. Les typica clairs avaient été éliminés en faveur de carbonaria noirs. En 1896,Tutt émis l'hypothèse que les Oiseaux chassant à vue étaient responsables de cette sélection. On objecta qu'il était peu probable qu'une sélection sur une aussi courte période, quelques jours, comparée à la durée de vie de l'animal, quelques mois, puisse être responsable d'une évolution aussi spectaculaire. Une chose était de l'affirmer une autre de la démontrer. C'est ce qu'entreprit Kettlewell en 1955.
 
 Il lâche le matin des Phalènes du Bouleau claires et sombres, marquées ventralement par une tâche de peinture, soit dans une forêt polluée, soit dans une forêt non polluée. La nuit suivante, ces papillons sont capturés à l'aide d'une lampe ou de phéromones qui les attirent. On ne tient compte que des papillons marqués pour établir le tableau des résultats ci-dessous.
 
+![Capturen](https://user-images.githubusercontent.com/62718218/82654184-9faca600-9c20-11ea-8126-fee75fec08e9.PNG)
 
+Les Papillons blancs survivent mieux sur les troncs clairs que sur les troncs noircis par la suie, inversement pour les papillons noirs. Cette mortalité différentielle permet d'expliquer les variations de couleurs observées dans les régions polluées. Mais à quoi est-elle due ?
 
+**Prédation**
+
+Les Phalènes sont des animaux nocturnes qui passent la journée posée sur un tronc ou une branche d'arbre. Les Papillons se distinguent clairement sur les troncs lorsqu'ils ont une couleur différente. Il est logique de penser qu'un prédateur chassant à vue est responsable de ces résultats, le protocole expérimental du chercheur éliminant l'effet d'une prédation nocturne par les chauves-souris. Kettlewell poursuit donc ses expériences pour vérifier que les Oiseaux sont les responsables.
+
+Des Phalènes du Bouleau claires et sombres sont posées, en nombre égal, de jour, par l'expérimentateur sur des troncs d'arbres pollués ou non selon la région. Des observateurs repèrent ces papillons à la jumelle et constatent qu'ils sont capturés par des oiseaux tels les rouges-gorges. Les résultats sont exprimés ci-dessous 
 ## Lien vers page de blog : <a href=""> C'est ici ! </a>
 
 ## Bibliographie :
