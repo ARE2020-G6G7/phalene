@@ -46,7 +46,6 @@ Dès la fin du dix neuvième siècle on a réalisé l'importance de cette observ
 
 Il lâche le matin des Phalènes du Bouleau claires et sombres, marquées ventralement par une tâche de peinture, soit dans une forêt polluée, soit dans une forêt non polluée. La nuit suivante, ces papillons sont capturés à l'aide d'une lampe ou de phéromones qui les attirent. On ne tient compte que des papillons marqués pour établir le tableau des résultats ci-dessous.
 
-![Capturen](https://user-images.githubusercontent.com/62718218/82654184-9faca600-9c20-11ea-8126-fee75fec08e9.PNG)
 
 Les Papillons blancs survivent mieux sur les troncs clairs que sur les troncs noircis par la suie, inversement pour les papillons noirs. Cette mortalité différentielle permet d'expliquer les variations de couleurs observées dans les régions polluées. Mais à quoi est-elle due ?
 
@@ -55,6 +54,10 @@ Les Papillons blancs survivent mieux sur les troncs clairs que sur les troncs no
 Les Phalènes sont des animaux nocturnes qui passent la journée posée sur un tronc ou une branche d'arbre. Les Papillons se distinguent clairement sur les troncs lorsqu'ils ont une couleur différente. Il est logique de penser qu'un prédateur chassant à vue est responsable de ces résultats, le protocole expérimental du chercheur éliminant l'effet d'une prédation nocturne par les chauves-souris. Kettlewell poursuit donc ses expériences pour vérifier que les Oiseaux sont les responsables.
 
 Des Phalènes du Bouleau claires et sombres sont posées, en nombre égal, de jour, par l'expérimentateur sur des troncs d'arbres pollués ou non selon la région. Des observateurs repèrent ces papillons à la jumelle et constatent qu'ils sont capturés par des oiseaux tels les rouges-gorges. Les résultats sont exprimés ci-dessous 
+
+![Captureo](https://user-images.githubusercontent.com/62718218/82654513-26fa1980-9c21-11ea-9295-eda10976b4d7.PNG)
+
+
 ## Lien vers page de blog : <a href=""> C'est ici ! </a>
 
 ## Bibliographie :
