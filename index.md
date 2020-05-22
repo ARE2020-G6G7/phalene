@@ -11,7 +11,7 @@ The Peppered Moth is a moth of the order Lepidoptera, of the family of geometrid
 
 ## Présentation de l'équipe
 
-Wassim Senihji
+**Wassim Senihji**
 
 
 ## Description synthétique du projet
