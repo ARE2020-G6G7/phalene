@@ -1,6 +1,6 @@
 # Phalene de bouleau : Séléction naturelle 
 
-Notre projet de recherche documentaire vise à déterminer le seuil de pollution au-dessus duquel le nombre de Phalènes noires augmente et le nombre de Phalènes blanches diminue. Et pour cela, nous avons pris comme critère d’évaluation, l’évolution du nombre de Carbonarias et de Typicas en fonction du taux de pollution. Nous visons aussi à discuter les questions et les doutes qui lui sont associés, notamment son influence sur la descendance des phalènes. Nous comparerons ainsi des documents 
+La Phalène du bouleau est un papillon nocturne de l'ordre des lépidoptères, de la famille des géométridés, souvent cité comme exemple d'adaptation à l'évolution de son milieu naturel par mutation puis sélection naturelle. Il présente deux phénotypes dans la nature, une forme sombre et une forme claire. Ces formes sont déterminées génétiquement. Nous pouvons donc nous demander en quoi la Phalène du bouleau met en action le phénomène de sélection naturelle et s’inscrit ainsi dans l’étude d’un système dynamique. 
 
 ## English version
 The peppered moth : Natural selection 
@@ -13,14 +13,12 @@ Wassim Senihji
 ## Description synthétique du projet
 
 **Problématique :** 
-La Phalène du bouleau est un papillon nocturne de l'ordre des lépidoptères, de la famille des géométridés, souvent cité comme exemple d'adaptation à l'évolution de son milieu naturel par mutation puis sélection naturelle. Il présente deux phénotypes dans la nature, une forme sombre et une forme claire. Ces formes sont déterminées génétiquement. Nous pouvons donc nous demander en quoi la Phalène du bouleau met en action le phénomène de sélection naturelle et s’inscrit ainsi dans l’étude d’un système dynamique. 
-
-**Hypothèse principale :**
 Au début du XIXe siècle, la forme typique de phalène aux ailes blanches tachetées de noir était la seule connue jusqu’alors. Par ailleurs, à partir de 1849, on rencontre un pourcentage important des papillons de type Carbonaria (sombre). La fréquence de cette forme augmente à tel point qu’ils représentaient en moyenne 90% des populations de Phalènes en Angleterre voire jusqu’à 98% à proximité des zones industrielles. On peut par exemple citer les données relévées en 1972 à Liverpool qui sont plus ou moins similaires. 
 
 
  ![Capturen](https://user-images.githubusercontent.com/62718218/82135400-ac856000-9802-11ea-9b8d-72aa09ce319c.PNG)
 
+**Hypothèse principale :**
 
 On observe une décroissance exponentielle du taux de Carbonaria lorsque l’on se rapproche de la compagne qui était nettement moins touchée par la pollution. Cette évolution coïncide avec la révolution industrielle anglaise qui a engendré une forte pollution et par la même occasion la disparition des lichens et le noircissement des troncs de bouleaux. Par conséquent, les troncs d’arbre deviennent un environnement adéquat pour les carbonaria en leur permettant de se camoufler et ainsi se protéger des prédateurs aux yeux desquels ils sont nettement moins apparents comme nous pouvons le constater ci-dessous :  
 
@@ -28,18 +26,16 @@ Nous en déduisons donc que les variations démographiques évoquées plûtot so
 
 
 
-**Hypothèses secondaires :** 
 
 **Objectifs :**
 
-C’est pourquoi, notre objectif est de déterminer le seuil de pollution au-dessus duquel le nombre de Typicas(claire) augmente et le nombre de Carbonaria (sombre) baisse. 
+C’est pourquoi, notre objectif est de déterminer le seuil de pollution au-dessus duquel le nombre de Phalènes noires augmente et le nombre de Phalènes blanches diminue. Et pour cela, nous avons pris comme critère d’évaluation, l’évolution du nombre de Carbonarias et de Typicas en fonction du taux de pollution. Nous visons aussi à discuter les questions et les doutes qui lui sont associés, notamment son influence sur la descendance des phalènes. Nous comparerons ainsi des documents grands publics et des articles internationaux décrivant l’état des connaissances scientifiques dans le domaine.
 
 **Critère(s) d'évaluation :**
 Et pour cela on a pris comme critère d’évaluation l’évaluation du nombre de Carbonarias et de Typicas en fonction du taux de pollution.
 
 ## Présentation structurée des résultats
 
-Notre projet de recherche documentaire vise à déterminer le seuil de pollution au-dessus duquel le nombre de Phalènes noires augmente et le nombre de Phalènes blanches diminue. Et pour cela, nous avons pris comme critère d’évaluation, l’évolution du nombre de Carbonarias et de Typicas en fonction du taux de pollution. Nous visons aussi à discuter les questions et les doutes qui lui sont associés, notamment son influence sur la descendance des phalènes. Nous comparerons ainsi des documents grands publics et des articles internationaux décrivant l’état des connaissances scientifiques dans le domaine.
 
 
 ## Lien vers page de blog : <a href=""> C'est ici ! </a>
