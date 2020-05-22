@@ -4,6 +4,7 @@ La Phalène du bouleau est un papillon nocturne de l'ordre des lépidoptères, d
 
 ## English version
 **The peppered moth : Natural selection**
+
 The Birch Moth is a moth of the order Lepidoptera, of the family of geometrids, often cited as an example of adaptation to the evolution of its natural environment by mutation then natural selection. It has two phenotypes in nature, a dark form and a light form. These forms are genetically determined. We can therefore ask ourselves how the Birch Moth activates the phenomenon of natural selection and thus fits into the study of a dynamic system.
 
 
